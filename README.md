@@ -1,5 +1,7 @@
 # Blog:  Prompt Engineering Best Practices and Examples
+
 Date: 2025-02-21
+
 ---
 
 ## Introduction
