@@ -219,5 +219,3 @@ Mastering prompt engineering unlocks the full potential of AI models. By being c
 ---
 
 © 2025 Brock Frary. All rights reserved.
-
----
