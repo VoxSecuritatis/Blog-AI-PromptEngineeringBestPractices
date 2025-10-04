@@ -217,3 +217,7 @@ Follow-Up Request:
 Mastering prompt engineering unlocks the full potential of AI models. By being clear, providing context, assigning roles, breaking down tasks, and iterating, you’ll generate more accurate and relevant outputs.
 
 ---
+
+© 2025 Brock Frary. All rights reserved.
+
+---
